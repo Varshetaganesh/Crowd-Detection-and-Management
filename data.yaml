@@ -1,0 +1,13 @@
+train: dataset/train/images
+val: dataset/valid/images
+test: dataset/test/images
+
+nc: 2
+names: ['Head', 'Person']
+
+roboflow:
+  workspace: yolo-pedestrain
+  project: person-fqg2j
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yolo-pedestrain/person-fqg2j/dataset/1
