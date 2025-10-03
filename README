@@ -1,0 +1,6 @@
+## Dataset
+This project was trained on the [Person Detection Dataset](https://universe.roboflow.com/yolo-pedestrain/person-fqg2j)  
+provided by a Roboflow user on Roboflow Universe.  
+
+**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+You must provide appropriate credit if you use this dataset.
