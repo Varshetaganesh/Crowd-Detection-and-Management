@@ -3,7 +3,7 @@ import json
 from ultralytics import YOLO
 
 # === CONFIG ===
-VIDEO_PATH = r"videos/test_video.mp4"
+VIDEO_PATH = r"C:\Users\Dhanya\Crowd-Detection-and-Management\videos\vedio4.mp4"
 OUTPUT_JSON = "head_detections.json"
 MODEL_PATH = "best.pt"  # your trained YOLOv8 head detection model
 CONF_THRESH = 0.35

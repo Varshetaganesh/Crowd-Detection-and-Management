@@ -4,7 +4,7 @@ import numpy as np
 from detect_heads import detect_heads
 import json
 
-VIDEO_PATH = "Many_People.mp4"
+VIDEO_PATH = r"C:\Users\Dhanya\Crowd-Detection-and-Management\videos\vedio3.mp4"
 OUTPUT_JSON = "head_detections.json"
 
 cap = cv2.VideoCapture(VIDEO_PATH)
